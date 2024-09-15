@@ -2,6 +2,11 @@
  - Updated template AI model for a drinking reminder program.
 
 
+https://github.com/user-attachments/assets/e711fb5c-786a-4716-af4f-1901948372f3
+
+
+
+
 # AI-video-boilerplate-simple
 
   This is a completely free Live AI Video boilerplate (Simple) for you to play with.  
