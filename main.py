@@ -9,7 +9,7 @@ from body import body
 from hands import hands
 from face import face
 from pushupcount import pushupcount
-from XXXXX import XXXXX
+from template import template
 from glowsword import glowsword
 from punchspeed import punchspeed
 from puzzle import puzzle
@@ -29,8 +29,8 @@ app.register_blueprint(gaze, url_prefix='/gaze')
 app.register_blueprint(pushupcount, url_prefix='/pushupcount')
 app.register_blueprint(privasee, url_prefix='/privasee')
 app.register_blueprint(surfinterneteyes, url_prefix='/surfinterneteyes')
-app.register_blueprint(XXXXX, url_prefix='/template')
-app.register_blueprint(glowsword, url_prefix='/glowsword')
+app.register_blueprint(template, url_prefix='/template')
+app.register_blueprint(glowsword, url_prefix='/lightsaber')
 app.register_blueprint(punchspeed, url_prefix='/punchspeed')
 app.register_blueprint(puzzle, url_prefix='/puzzle')
 app.register_blueprint(speed, url_prefix='/speed')
