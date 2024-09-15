@@ -1,3 +1,7 @@
+#This is an edited Boilerplate
+ - Updated template AI model for a drinking reminder program.
+
+
 # AI-video-boilerplate-simple
 
   This is a completely free Live AI Video boilerplate (Simple) for you to play with.  
